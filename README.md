@@ -7,9 +7,9 @@ In this challenge the client has asked for a program to crunch the numbers of a 
 ## Broad Strokes in Numbers
 * Total Votes Cast: 369,711
 * Votes by County:
-    *Jefferson: 38,855 votes (10.5% of turnout)
-    *Denver: 306,055 votes (82.8% of turnout)
-    *Arapahoe: 24,801 votes (6.7% of turnout)
+    * Jefferson: 38,855 votes (10.5% of turnout)
+    * Denver: 306,055 votes (82.8% of turnout)
+    * Arapahoe: 24,801 votes (6.7% of turnout)
         * Denver county had the highest voter participation with almost 10 times the amount of votes of Jefferson county. (306,055 votes cast.)
 * Votes by Candidate (% of total votes)    
     * Charles Casper Stockham: 85,213 votes (23%)
